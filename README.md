@@ -23,3 +23,5 @@
 ##### Visitor's Phone Number 
 
 
+### Events Visitor's List Requirements
+##### mark each visitor's attendence
