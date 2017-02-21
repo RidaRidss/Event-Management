@@ -8,7 +8,7 @@
 
 ##### User will create/delete the visitors in each event that will automatically sync with that event's sheet data in events folder on user's google drive or user can also make changes in any event/visitor's data on google drive then go to app. data will be sync automatically
 
-##### One more feature is that User created the event then add all of the visitors in that event , now go to the event's visitor list and check those visitors who is present this will automatically sync with drive attendence field , if the visitor is present then attendence field will be marked as true and the user can also change the attendence through google drive , app will be sync automatically 
+##### One more feature is that User created the event then add all of the visitors in that event , now go to the event's visitor list and check those visitors who is present this will automatically sync with drive attendence field , if the visitor is present then attendence field will be marked as Present and the user can also change the attendence through google drive , app will be sync automatically 
 
 
 ### Events Requirements
@@ -19,7 +19,8 @@
 ##### Visitor First Name
 ##### Visitor's Last Name
 ##### Visitor's Email
-##### Visitor's Gender
+##### Visitor's Organization
+##### Visitor's Job Title
 ##### Visitor's Phone Number 
 
 
