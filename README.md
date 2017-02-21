@@ -1,4 +1,4 @@
-# Event-Management - Client App - Angular Ionic App
+# Adelie Event-Management - Client App - Crossplatform App
 
 ## Features Of This App
 
